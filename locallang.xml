@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+        <meta type="array">
+                <type>module</type>
+                <description>Language labels for plugin &quot;tx_cmdtreehide&quot;</description>
+        </meta>
+        <data type="array">
+                <languageKey index="default" type="array">
+                        <label index="recursiveTreeHide">&lt;b&gt;Recursive tree hide:&lt;/b&gt; Allow ALL subpages&lt;br /&gt;to be hidden when hiding a page</label>
+                </languageKey>
+                <languageKey index="fr" type="array">
+                        <label index="recursiveTreeHide">&lt;b&gt;Cacher d'arborescence recursif:&lt;/b&gt; Autorise le masquage de TOUTES&lt;br /&gt;les sous-pages lorsqu'une page est caché</label>
+                </languageKey>
+        </data>
+</T3locallang>

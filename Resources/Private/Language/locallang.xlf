@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-12-18T03:56:59Z" product-name="cmd_treehide">
+		<header/>
+		<body>
+			<trans-unit id="recursiveTreeHide">
+				<source>&lt;b&gt;Recursive tree hide:&lt;/b&gt; Allow ALL subpages&lt;br /&gt;to be hidden when hiding a page</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

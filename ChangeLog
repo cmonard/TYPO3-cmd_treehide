@@ -1,0 +1,3 @@
+2014-12-18 Christophe Monard  <contact@cmonard.fr>
+	* initial code release
+        * Add checkbox to user configuration (prev to recursive delete), add possibilité to (un)hide entire tree at once

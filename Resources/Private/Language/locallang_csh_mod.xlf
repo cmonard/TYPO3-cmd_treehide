@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-12-18T04:04:54Z" product-name="cmd_treehide">
+		<header/>
+		<body>
+			<trans-unit id="option_recursiveTreeHide.alttitle" xml:space="preserve">
+				<source>Recursive tree hide</source>
+			</trans-unit>
+			<trans-unit id="option_recursiveTreeHide.description" xml:space="preserve">
+				<source>You cannot hide all subpages of a page unless this flag is set. Be careful - setting this option means that TYPO3 will allow a whole tree of pages to be hidden in one go!</source>
+			</trans-unit>
+			<trans-unit id="option_recursiveTreeHide.details" xml:space="preserve">
+				<source>You should also consider the performance issues involved when hiding a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

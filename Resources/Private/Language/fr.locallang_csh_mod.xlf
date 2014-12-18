@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-12-18T04:08:34Z" product-name="cmd_treehide">
+		<header/>
+		<body>
+			<trans-unit id="option_recursiveTreeHide.alttitle" xml:space="preserve">
+				<source>Recursive tree hide</source>
+                                <target state="translated">Cacher d'arborescence recursif</target>
+			</trans-unit>
+			<trans-unit id="option_recursiveTreeHide.description" xml:space="preserve">
+				<source>You cannot hide all subpages of a page unless this flag is set. Be careful - setting this option means that TYPO3 will allow a whole tree of pages to be hidden in one go!</source>
+                                <target state="translated">Vous ne pouvez pas masquer les sous-pages d'une page à moins que cette option soit sélectionnée. Soyez prudent - paramétrer cette option signifie que TYPO3 permettra de masquer une arborescence de pages en une seule fois!</target>
+			</trans-unit>
+			<trans-unit id="option_recursiveTreeHide.details" xml:space="preserve">
+				<source>You should also consider the performance issues involved when hiding a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</source>
+                                <target state="translated">You should also consider the performance issues involved when hiding a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

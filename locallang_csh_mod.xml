@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+        <meta type="array">
+                <type>module</type>
+                <description>Language labels for plugin &quot;tx_cmdtreehide&quot;</description>
+        </meta>
+        <data type="array">
+                <languageKey index="default" type="array">
+                        <label index="option_recursiveTreeHide.alttitle">Recursive tree hide</label>
+                        <label index="option_recursiveTreeHide.description">You cannot hide all subpages of a page unless this flag is set. Be careful - setting this option means that TYPO3 will allow a whole tree of pages to be hidden in one go!</label>
+                        <label index="option_recursiveTreeHide.details">You should also consider the performance issues involved when hiding a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</label>
+                </languageKey>
+                <languageKey index="fr" type="array">
+                        <label index="option_recursiveTreeHide.alttitle">Cacher d'arborescence recursif</label>
+                        <label index="option_recursiveTreeHide.description">Vous ne pouvez pas masquer les sous-pages d'une page à moins que cette option soit sélectionnée. Soyez prudent - paramétrer cette option signifie que TYPO3 permettra de masquer une arborescence de pages en une seule fois!</label>
+                        <label index="option_recursiveTreeHide.details">You should also consider the performance issues involved when hiding a large page tree. It might take a considerable amount of time to do that and if PHP times out before the operation is finished the results might be unpredictable.</label>
+                </languageKey>
+        </data>
+</T3locallang>
