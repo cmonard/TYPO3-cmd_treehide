@@ -1,0 +1,29 @@
+.. |user-option|      image:: ../Images/user_option.png
+.. :align: left
+.. :border: 0
+.. :name: user-option
+.. :vspace: 57
+
+.. |tree-active|      image:: ../Images/tree_active.png
+.. :align: left
+.. :border: 0
+.. :name: tree-active
+.. :vspace: 57
+
+.. |tree-inactive|      image:: ../Images/tree_inactive.png
+.. :align: left
+.. :border: 0
+.. :name: tree-inactive
+.. :vspace: 57
+
+.. |tree-menu|      image:: ../Images/tree_menu.png
+.. :align: left
+.. :border: 0
+.. :name: tree-menu
+.. :vspace: 57
+
+.. |tree-inmenu|      image:: ../Images/tree_inmenu.png
+.. :align: left
+.. :border: 0
+.. :name: tree-inmenu
+.. :vspace: 57

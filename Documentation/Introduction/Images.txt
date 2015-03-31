@@ -1,0 +1,11 @@
+.. |tree-active|      image:: ../Images/tree_active.png
+.. :align: left
+.. :border: 0
+.. :name: tree-active
+.. :vspace: 57
+
+.. |tree-inactive|      image:: ../Images/tree_inactive.png
+.. :align: left
+.. :border: 0
+.. :name: tree-inactive
+.. :vspace: 57
